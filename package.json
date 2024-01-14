@@ -1,0 +1,30 @@
+{
+  "name": "dtc-coding-assistant-pack",
+  "displayName": "DTC Coding Assistant Pack",
+  "publisher": "danyathecoder",
+  "description": "This pack contains different extensions, which help to write code in the most effective way.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danyathecoder/DTC-Coding-Assistant-Pack.git"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "cschlosser.doxdocgen",
+    "eamodio.gitlens",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "GitHub.remotehub",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode.azure-repos",
+    "ms-vscode.live-server",
+    "ms-vscode.remote-repositories",
+    "ms-vsliveshare.vsliveshare"
+  ]
+}
